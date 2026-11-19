@@ -1,0 +1,1 @@
+quiet loglevel=3 mitigations=auto lsm=landlock,lockdown,yama,apparmor random.trust_cpu=off random.trust_bootloader=off module.sig_enforce=1 preempt=lazy
